@@ -4,7 +4,7 @@
 WORK IN PROGRESS. Python-based multi-line text slicing and processing for more effectively selecting medication for medical cannabis patients.
 
 ### Developement Plan:
-- ~~Data collection/Processing
+- ~~Data collection/Processing~~
 - Further data processing (Types, categories, etc)
 - Terpene Analysis
 - Console GUI / Cleanup
